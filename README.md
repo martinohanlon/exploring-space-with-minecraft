@@ -6,7 +6,7 @@ SpaceCRAFT was conceived by Hannah Belshaw of Cumnor Girls School and created by
 
 TODO - What is SpaceCRAFT.
 
-![Data from the ISS displayed in Minecraft](../images/spacecraft.png)
+![Data from the ISS displayed in Minecraft](images/spacecraft.png)
 
 
 

@@ -30,7 +30,7 @@ sudo python3 setup.py install
 The SpaceCRAFT program and module documentation is here [https://github.com/martinohanlon/SpaceCRAFT/blob/master/README.rst](https://github.com/martinohanlon/SpaceCRAFT/blob/master/README.rst).
 
 ## Next steps
-1. [Exploring the Astro Pi computer using Minecraft](worksheets/interactiveastropi.md)
-2. [Capturing data](worksheets/capturingdata.md)
-3. [Playing back the data in Minecraft](worksheets/playbackdata.md)
-4. [Creating your own Minecraft display](worksheets/minecraftdisplay.md)
+1. [Exploring the Astro Pi computer using Minecraft](interactiveastropi.md)
+2. [Capturing data](capturingdata.md)
+3. [Playing back the data in Minecraft](playbackdata.md)
+4. [Creating your own Minecraft display](minecraftdisplay.md)

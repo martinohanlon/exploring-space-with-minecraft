@@ -45,13 +45,13 @@ Scout around and see if you can find all of the sensors - temperature, humidity,
 
 Using the Astro Pi in Minecraft you can make the LED matrix on your Sense HAT light up. When you hit the LED Matrix in Minecraft the colour of the blocks will change and when they do the LED will change to the same colour.
 
-![Astro Pi LED Matrix](../astropimcled.png)
+![Astro Pi LED Matrix](../images/astropimcled.png)
 
 ### Joystick
 
 The joystick is also hittable and will move the Astro Pi computer around the Minecraft world. 
 
 ## Next steps
-1. [Capturing data](worksheets/capturingdata.md)
-2. [Playing back the data in Minecraft](worksheets/playbackdata.md)
-3. [Creating your own Minecraft display](worksheets/minecraftdisplay.md)
+1. [Capturing data](capturingdata.md)
+2. [Playing back the data in Minecraft](playbackdata.md)
+3. [Creating your own Minecraft display](minecraftdisplay.md)

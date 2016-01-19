@@ -5,4 +5,4 @@
 
 ## Next steps
 
-[Creating your own Minecraft display](worksheets/minecraftdisplay.md)
+[Creating your own Minecraft display](minecraftdisplay.md)

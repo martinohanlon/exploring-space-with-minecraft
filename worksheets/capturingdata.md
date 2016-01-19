@@ -40,7 +40,7 @@ The top row is the name of the field, each row after this is 1 line of data.
 
 Challenge - can you use the Spreadsheet to create a line graph of the temperature over time?
 
-![Astro Pi CPU temperature data as a line graph](../images/dataingraph.jpg) 
+![Astro Pi CPU temperature data as a line graph](../images/dataingraph.JPG) 
 
 ## Command Line Options
 
@@ -69,7 +69,7 @@ optional arguments:
 ```
 
 When you ran the data capture program, you passed 3 parameters:
-1. filename - `~/data.csv`
+1. filename( - `~/data.csv`
 2. timetorun - `60`
 3. interval - `1`
 
@@ -82,5 +82,5 @@ python3 astropidatalogger.py ~/hannahsdata.csv 1800 60
 Caution - if you use the name of a file which already exists it will be overwritten without warning and the old data file will be lost.
 
 ## Next steps
-1. - [Playing back the data in Minecraft](worksheets/playbackdata.md)
-2. - [Creating your own Minecraft display](worksheets/minecraftdisplay.md)
+1. - [Playing back the data in Minecraft](playbackdata.md)
+2. - [Creating your own Minecraft display](minecraftdisplay.md)
