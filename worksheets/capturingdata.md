@@ -82,9 +82,9 @@ python3 astropidatalogger.py ~/hannahsdata.csv 1800 60
 Caution - if you use the name of a file which already exists it will be overwritten without warning and the old data file will be lost.
 
 ## Worksheets
-1. *[Installing SpaceCRAFT](worksheets/installspacecraft.md)*
-2. *[Exploring the Astro Pi computer using Minecraft](worksheets/interactiveastropi.md)*
-3. *[Displaying real-time data](worksheets/displayingrealtimedata.md)*
-4. *[Capturing data](worksheets/capturingdata.md)*
-5. [Playing back data in Minecraft](worksheets/playbackdata.md)
-6. [Creating your own Minecraft display](worksheets/minecraftdisplay.md)
+1. *[Installing SpaceCRAFT](installspacecraft.md)*
+2. *[Exploring the Astro Pi computer using Minecraft](interactiveastropi.md)*
+3. *[Displaying real-time data](displayingrealtimedata.md)*
+4. *[Capturing data](capturingdata.md)*
+5. [Playing back data in Minecraft](playbackdata.md)
+6. [Creating your own Minecraft display](minecraftdisplay.md)
