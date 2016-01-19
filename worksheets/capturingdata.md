@@ -15,7 +15,7 @@ cd ~/SpaceCRAFT/spacecraft
 python3 astropidatalogger.py ~/data.csv 60 1
 ```
 
-TODO - screenshot of the command.
+![Run data capture](../images/rundatalogger.jpg)
 
 While the program is running, an animation, created by Hannah Belshaw, will be shown on the Sense HAT LED Matrix, the pattern changing each time data is read from the sensors and written to the file.
 
@@ -28,16 +28,19 @@ The program will run for 60 seconds.
 The data from the sensors has been written to a [CSV (Comma Seperated Variable) file](TODO http link to wikipedia about CSV) which is a really common way of storing data and can be opened using a spreadsheet application, including Libre Office Sheets (TODO < check this is correct) installed on Raspbian.
 
 Open the file using Libre Office Sheets and have a look at the data:
-1. Open Libre Office Sheets by clicking `Menu > Applications > Libre Office Sheet` - TODO check this is right
-2. TODO - how to open the file!!! 
+1. Open Libre Office Sheets by clicking `Menu > Office > LibreOffice Calc`
+2. Click `File > Open`
+3. Select `All Files`
+4. Double click `data.csv`
+5. Click `Ok` on the Text Import window.
 
-TODO - picture of the data in Libre Office
+![Astro Pi data in LibreOffice Calc](../images/datainspreadsheet.jpg)
 
-The top row shows the fields which were read using 
+The top row is the name of the field, each row after this is 1 line of data.
 
 Challenge - can you use the Spreadsheet to create a line graph of the temperature over time?
 
-TODO - picture of a line graph  
+![Astro Pi CPU temperature data as a line graph](../images/dataingraph.jpg) 
 
 ## Command Line Options
 
