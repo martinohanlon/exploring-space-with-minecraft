@@ -8,8 +8,6 @@ TODO - What is SpaceCRAFT.
 
 ![Data from the ISS displayed in Minecraft](images/spacecraft.png)
 
-
-
 ## Requirements
 
 ### Hardware
@@ -24,7 +22,7 @@ If you do not have Minecraft: Pi Edition installed, or you need to test it works
 
 If you havent installed the Sense HAT on yoru Raspberry Pi, you should review [Sense HAT installation and documentation](https://www.raspberrypi.org/documentation/hardware/sense-hat/).
 
-You will also need to [install the SpaceCRAFT python library and programs](installspacecraft.md).
+You will also need to [install the SpaceCRAFT python library and programs](worksheets/installspacecraft.md).
 
 ### Learning
 
@@ -34,9 +32,10 @@ If you are new to programming Minecraft: Pi Edition, and want to extend SpaceCRA
 
 1. [Installing SpaceCRAFT](worksheets/installspacecraft.md)
 2. [Exploring the Astro Pi computer using Minecraft](worksheets/interactiveastropi.md)
-3. [Capturing data](worksheets/capturingdata.md)
-4. [Playing back data in Minecraft](worksheets/playbackdata.md)
-5. [Creating your own Minecraft display](worksheets/minecraftdisplay.md)
+3. [Displaying real-time data](worksheets/displayingrealtimedata.md)
+4. [Capturing data](worksheets/capturingdata.md)
+5. [Playing back data in Minecraft](worksheets/playbackdata.md)
+6. [Creating your own Minecraft display](worksheets/minecraftdisplay.md)
 
 ## Licence
 
