@@ -27,25 +27,29 @@ The Interactive Astro Pi computer will be created directly above the player posi
 
 ## Explore the Astro Pi computer and Sense HAT
 
+After the Astro Pi computer has appeared in Minecraft, fly up (double tap SPACE to fly, SPACE makes the player go up, SHIFT to come down), and have a look around.
 
+You can interact with the Astro Pi computing by hitting it (RIGHT clicking) with a sword. Every part of the Astro Pi computer is 'hitable' and when you do a message will be displayed in Minecraft telling you about what you hit.  
 
-by right clicking while holding a sword.
+TODO - picture of me stood on stop of the interactive astro pi hitting it.
 
-TODO - picture of the top of the Sense HAT
-
-Challenge - can you find all of the sensors on the Sense HAT? 
+Challenge - can you find all of the parts on the Astro Pi computer? 
 
 ### Sensors
 
-Find all the sensors (temperature, pressure, accelerometer, magnetometer and gyroscope)
+If you hit the sensors, a message will appear in Minecraft, telling you what sensor it is and what its current value is).
+
+Scout around and see if you can find all of the sensors - temperature, humidity, pressure, accelerometer, magnetometer and gyroscope.
 
 ### LED Matrix
 
-Make a pattern appear on your Sense HAT.
+Using the Astro Pi in Minecraft you can make the LED matrix on your Sense HAT light up. When you hit the LED Matrix in Minecraft the colour of the blocks will change and when they do the LED will change to the same colour.
+
+![Astro Pi LED Matrix](../astropimcled.png)
 
 ### Joystick
 
-Hit the joystick to make the  the Astro Pi computer move around the Minecraft world.
+The joystick is also hittable and will move the Astro Pi computer around the Minecraft world. 
 
 ## Next steps
 1. [Capturing data](worksheets/capturingdata.md)

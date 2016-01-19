@@ -11,6 +11,8 @@ cd ~
 git clone https://github.com/martinohanlon/SpaceCRAFT
 ```
 
+![Downloading SpaceCRAFT](../images/downloadspacecraft.jpg)
+
 ##Install the python library
 
 As well as the SpaceCRAFT programs, a python library is also included to allow you to create your own SpaceCRAFT programs.
@@ -18,12 +20,12 @@ As well as the SpaceCRAFT programs, a python library is also included to allow y
 Open a terminal and enter the following commands:
 
 ```
-cd ~/SpaceCRAFT/spacecraft
+cd ~/SpaceCRAFT
 sudo python setup.py install
 sudo python3 setup.py install
 ```
 
-TODO - picture of what you should see when its installed.
+![Installing SpaceCRAFT](../images/installspacecraft.jpg)
 
 The SpaceCRAFT program and module documentation is here [https://github.com/martinohanlon/SpaceCRAFT/blob/master/README.rst](https://github.com/martinohanlon/SpaceCRAFT/blob/master/README.rst).
 
