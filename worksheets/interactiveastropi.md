@@ -20,7 +20,7 @@ Open a Terminal by clicking the icon on the taskbar, or by clicking `Menu > Acce
 
 ```
 cd ~/SpaceCRAFT/spacecraft
-python3 interactiveastropi.py (TODO check this) 
+python3 mcinteractiveastropi.py
 ```
 
 The Interactive Astro Pi computer will be created directly above the player position, go back to Minecraft, look up and you should see the bottom of the Raspberry Pi. 
@@ -55,7 +55,7 @@ The joystick is also hittable and will move the Astro Pi computer around the Min
 ## Worksheets
 1. *[Installing SpaceCRAFT](installspacecraft.md)*
 2. *[Exploring the Astro Pi computer using Minecraft](interactiveastropi.md)*
-3. [Displaying real-time data](displayingrealtimedata.md)
+3. [Displaying data from Space in Minecraft](displayingrealtimedata.md)
 4. [Capturing data](capturingdata.md)
 5. [Playing back data in Minecraft](playbackdata.md)
 6. [Creating your own Minecraft display](minecraftdisplay.md)
