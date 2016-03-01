@@ -66,10 +66,10 @@ optional arguments:
 
 ```
 
-When you ran the data capture program, you passed 3 parameters:
+When you ran the data capture program, you passed 3 parameters.
 1. filename( - `~/data.csv`
-1. timetorun - `60`
-1. interval - `1`
+2. timetorun - `60`
+3. interval - `1`
 
 These parameters have to be passed to the program, but can be changed to make write to a different file, run longer or read data less often, e.g. to run the program writing to a file called `hannahsdata.csv` for 30 minutes (1,800 seconds) reading data once a minute (60 seconds) you would use the command:
 
