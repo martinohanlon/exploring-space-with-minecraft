@@ -23,9 +23,9 @@ The program will run for 60 seconds.
 
 ## Examine the data
 
-The data from the sensors has been written to a [CSV (Comma Seperated Variable) file](TODO http link to wikipedia about CSV) which is a really common way of storing data and can be opened using a spreadsheet application, including Libre Office Sheets (TODO < check this is correct) installed on Raspbian.
+The data from the sensors has been written to a [CSV (Comma Seperated Variable) file](TODO http link to wikipedia about CSV) which is a common way of storing data and can be opened using a spreadsheet application, including Libre Office Sheets (TODO < check this is correct) installed on Raspbian.
 
-Open the file using Libre Office Sheets and have a look at the data:
+Open the file using LibreOffice Calc and have a look at the data:
 
 1. Open Libre Office Sheets by clicking `Menu > Office > LibreOffice Calc`
 2. Click `File > Open`
@@ -37,7 +37,7 @@ Open the file using Libre Office Sheets and have a look at the data:
 
 The top row is the name of the field, each row after this is 1 line of data.
 
-Challenge - can you use the Spreadsheet to create a line graph of the temperature over time?
+Can you use the Spreadsheet to create a line graph of the temperature over time?
 
 ![Astro Pi CPU temperature data as a line graph](../images/dataingraph.JPG) 
 

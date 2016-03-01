@@ -21,7 +21,7 @@ cd ~/SpaceCRAFT/spacecraft
 python3 mcastrorealtime.py
 ```
 
-The SpaceCRAFT display will be created in front of the player position, go back to Minecraft, look up and you will see the ISS.
+The SpaceCRAFT display will be created in front of the players position, go back to Minecraft, look up and you will see the ISS.
 
 ## Explore the SpaceCRAFT data
 

@@ -40,9 +40,9 @@ data  exit  help  play  speed  stop
 
 ## Playing back the data in a file
 
-If you haven't already use the [data capture program](capturingdata.md) to create a data file.
+Use the [data capture program](capturingdata.md) to create a data file.
 
-Use the `play` command and the file path of the data file to start the Minecraft display, e.g.
+Use the `play` command and the full file path of the data file to start the Minecraft display, e.g.
 
 ```
 play /home/pi/data.csv
