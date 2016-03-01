@@ -66,7 +66,8 @@ optional arguments:
 
 ```
 
-When you ran the data capture program, you passed 3 parameters.
+When you ran the data capture program, you passed 3 parameters:
+
 1. filename( - `~/data.csv`
 2. timetorun - `60`
 3. interval - `1`
