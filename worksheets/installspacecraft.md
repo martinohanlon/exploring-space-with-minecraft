@@ -11,7 +11,7 @@ cd ~
 git clone https://github.com/astro-pi/SpaceCRAFT
 ```
 
-![Downloading SpaceCRAFT](../images/downloadspacecraft.jpg)
+![Downloading SpaceCRAFT](../images/downloadspacecraft.png)
 
 ##Install the python library
 

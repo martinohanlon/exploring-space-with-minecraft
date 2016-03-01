@@ -10,13 +10,13 @@ A video of the Interactive Astro Pi in operation - [https://youtu.be/i4sAfVcE_9s
 
 Run Minecraft by clicking `Menu > Games > Minecraft Pi`.
 
-Enter a world by either double clicking a world you have already created or selecting `Create World' (TODO check this)
+Enter a world by either double clicking a world you have already created or selecting `Create World'
 
 Leave Minecraft running and press Escape to go to the Menu and release your mouse pointer.
 
 ## Run the Interactive Astro Pi program
 
-Open a Terminal by clicking the icon on the taskbar, or by clicking `Menu > Accessories > Terminal' (TODO - check this) and enter the following commands one by one pressing Enter after each:
+Open a Terminal by clicking the icon on the taskbar, or by clicking `Menu > Accessories > Terminal' and enter the following commands one by one pressing Enter after each:
 
 ```
 cd ~/SpaceCRAFT/spacecraft
@@ -51,7 +51,6 @@ Using the Astro Pi in Minecraft you can make the LED matrix on your Sense HAT li
 
 The joystick is also hittable and will move the Astro Pi computer around the Minecraft world. 
 
-## Next steps
 ## Worksheets
 1. *[Installing SpaceCRAFT](installspacecraft.md)*
 2. *[Exploring the Astro Pi computer using Minecraft](interactiveastropi.md)*

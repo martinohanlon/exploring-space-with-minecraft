@@ -27,10 +27,10 @@ The data from the sensors has been written to a [CSV (Comma Seperated Variable) 
 
 Open the file using Libre Office Sheets and have a look at the data:
 1. Open Libre Office Sheets by clicking `Menu > Office > LibreOffice Calc`
-2. Click `File > Open`
-3. Select `All Files`
-4. Double click `data.csv`
-5. Click `Ok` on the Text Import window.
+1. Click `File > Open`
+1. Select `All Files`
+1. Double click `data.csv`
+1. Click `Ok` on the Text Import window.
 
 ![Astro Pi data in LibreOffice Calc](../images/datainspreadsheet.jpg)
 
@@ -68,8 +68,8 @@ optional arguments:
 
 When you ran the data capture program, you passed 3 parameters:
 1. filename( - `~/data.csv`
-2. timetorun - `60`
-3. interval - `1`
+1. timetorun - `60`
+1. interval - `1`
 
 These parameters have to be passed to the program, but can be changed to make write to a different file, run longer or read data less often, e.g. to run the program writing to a file called `hannahsdata.csv` for 30 minutes (1,800 seconds) reading data once a minute (60 seconds) you would use the command:
 
