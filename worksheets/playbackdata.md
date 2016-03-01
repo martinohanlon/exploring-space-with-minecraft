@@ -7,7 +7,7 @@ Data captured to a file by SpaceCRAFT running on the ISS or [by your own Raspber
 
 Run Minecraft by clicking `Menu > Games > Minecraft Pi`.
 
-Enter a world by either double clicking a world you have already created or selecting `Create World' (TODO check this)
+Enter a world by either double clicking a world you have already created or selecting `Create World'.
 
 Leave Minecraft running and press Escape to go to the Menu and release your mouse pointer.
 
