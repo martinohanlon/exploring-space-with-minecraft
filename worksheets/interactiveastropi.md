@@ -57,4 +57,3 @@ The joystick is also hittable and will move the Astro Pi computer around the Min
 3. [Displaying data from Space in Minecraft](displayingrealtimedata.md)
 4. [Capturing data](capturingdata.md)
 5. [Playing back data in Minecraft](playbackdata.md)
-6. [Creating your own Minecraft display](minecraftdisplay.md)
