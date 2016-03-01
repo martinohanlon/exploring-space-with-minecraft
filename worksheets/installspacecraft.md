@@ -4,7 +4,7 @@ The SpaceCRAFT programs and python module, need to be downloaded and installed b
 
 ## Download
 
-Open a Terminal by clicking the icon on the taskbar, or by clicking `Menu > Accessories > Terminal' (TODO - check this) and enter the following commands one by one pressing Enter after each:
+Open a Terminal by clicking the icon on the taskbar, or by clicking `Menu > Accessories > Terminal' and enter the following commands one by one pressing Enter after each:
 
 ```
 cd ~

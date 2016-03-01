@@ -10,13 +10,13 @@ A video of the Interactive Astro Pi in operation - [https://youtu.be/i4sAfVcE_9s
 
 Run Minecraft by clicking `Menu > Games > Minecraft Pi`.
 
-Enter a world by either double clicking a world you have already created or selecting `Create World'
+Click `Start Game` and enter a world by either double clicking a world you have already created or selecting `Create new`.
 
 Leave Minecraft running and press Escape to go to the Menu and release your mouse pointer.
 
 ## Run the Interactive Astro Pi program
 
-Open a Terminal by clicking the icon on the taskbar, or by clicking `Menu > Accessories > Terminal' and enter the following commands one by one pressing Enter after each:
+Open a Terminal by clicking the icon on the taskbar, or by clicking `Menu > Accessories > Terminal` and enter the following commands one by one pressing Enter after each one:
 
 ```
 cd ~/SpaceCRAFT/spacecraft
@@ -33,7 +33,7 @@ You can interact with the Astro Pi computing by hitting it (RIGHT clicking) with
 
 ![Interative Astro Pi](../images/interactivepi.png)
 
-Challenge - can you find all of the parts on the Astro Pi computer? 
+Can you find all of the parts on the Astro Pi computer? 
 
 ### Sensors
 

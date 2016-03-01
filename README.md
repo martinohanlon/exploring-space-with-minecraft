@@ -20,13 +20,13 @@ Minecraft and the Sense HAT software has been installed by default in Raspbian s
 
 If you do not have Minecraft: Pi Edition installed, or you need to test it works, see the [software installation](http://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/software.md) page in the "Getting Started ..." resources.
 
-If you havent installed the Sense HAT on your Raspberry Pi, you should review [Sense HAT installation and documentation](https://www.raspberrypi.org/documentation/hardware/sense-hat/).
+If you haven't installed the Sense HAT on your Raspberry Pi, you should review [Sense HAT installation and documentation](https://www.raspberrypi.org/documentation/hardware/sense-hat/).
 
 You will also need to [install the SpaceCRAFT python library and programs](worksheets/installspacecraft.md).
 
 ### Learning
 
-If you are new to programming Minecraft: Pi Edition, and want to extend SpaceCRAFT you should complete ["Getting Started With Programming The Minecraft World"](http://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/), this isn't essential though.
+If you are new to programming Minecraft: Pi Edition, and want to extend SpaceCRAFT you should complete ["Getting Started With Programming The Minecraft World"](http://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/) but this isn't essential.
 
 ## Worksheets
 
