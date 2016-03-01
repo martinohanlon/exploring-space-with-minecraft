@@ -31,7 +31,7 @@ After the Astro Pi computer has appeared in Minecraft, fly up (double tap SPACE 
 
 You can interact with the Astro Pi computing by hitting it (RIGHT clicking) with a sword. Every part of the Astro Pi computer is 'hitable' and when you do a message will be displayed in Minecraft telling you about what you hit.  
 
-TODO - picture of me stood on stop of the interactive astro pi hitting it.
+![Interative Astro Pi](../images/interactivepi.png)
 
 Challenge - can you find all of the parts on the Astro Pi computer? 
 

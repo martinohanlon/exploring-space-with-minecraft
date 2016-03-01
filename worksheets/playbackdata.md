@@ -20,17 +20,23 @@ cd ~/SpaceCRAFT/spacecraft
 python3 mcastroplayback.py
 ```
 
-TODO - picture of playback program running
+![The playback program](../images/playbackhelp.png)
 
 ## Commands
 
 The SpaceCRAFT playback program has a command line interface and you operate it using text based commands just like when using the terminal.
 
-At the `SpaceCRAFT $` command type `help` to see a list of all the commands.
+At the `SpaceCRAFT $` prompt type `help` to see a list of all the commands.
 
-TODO - picture of help command output.
+```
+Welcome to SpaceCRAFT data playback.  Type help or ? to list commands.
 
-TODO - text of help command output.
+SpaceCRAFT $ help
+
+Documented commands (type help <topic>):
+========================================
+data  exit  help  play  speed  stop
+```
 
 ## Playing back the data in a file
 
@@ -39,10 +45,9 @@ If you haven't already use the [data capture program](capturingdata.md) to creat
 Use the `play` command and the file path of the data file to start the Minecraft display, e.g.
 
 ```
-play ~/data.csv
+play /home/pi/data.csv
 ```
-
-TODO - picture of the playback program running and the display in Minecraft
+![Playing back data in Minecraft](../images/playbackrunning.png)
 
 ## Stopping playback
 

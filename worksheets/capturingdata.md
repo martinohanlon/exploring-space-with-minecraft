@@ -19,8 +19,6 @@ python3 astropidatalogger.py ~/data.csv 60 1
 
 While the program is running, an animation, created by Hannah Belshaw, will be shown on the Sense HAT LED Matrix, the pattern changing each time data is read from the sensors and written to the file.
 
-TODO - Picture of the animation. Or even an animated gif of the animation running.
-
 The program will run for 60 seconds.
 
 ## Examine the data

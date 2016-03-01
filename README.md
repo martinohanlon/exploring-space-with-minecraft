@@ -4,7 +4,7 @@ In this resource you will explore SpaceCRAFT, the Primary School [winning entry 
 
 SpaceCRAFT was conceived by Hannah Belshaw of Cumnor Girls School and created by [Martin O'Hanlon](http://www.stuffaboutcode.com) for the [Raspberry Pi Foundation](https://www.raspberrypi.org) 
 
-TODO - What is SpaceCRAFT.
+SpaceCRAFT is a way of viewing data captured by the Astro Pi computer on the ISS in Minecraft. 
 
 ![Data from the ISS displayed in Minecraft](images/spacecraft.png)
 
@@ -35,7 +35,7 @@ If you are new to programming Minecraft: Pi Edition, and want to extend SpaceCRA
 3. [Displaying data from Space in Minecraft](worksheets/displayingrealtimedata.md)
 4. [Capturing data](worksheets/capturingdata.md)
 5. [Playing back data](worksheets/playbackdata.md)
-6. [Creating your own Minecraft display](worksheets/minecraftdisplay.md)
+6. [Creating your own Minecraft display](worksheets/minecraftdisplay.md) - Coming soon
 
 ## Licence
 
