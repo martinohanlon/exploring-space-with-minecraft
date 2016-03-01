@@ -26,11 +26,12 @@ The program will run for 60 seconds.
 The data from the sensors has been written to a [CSV (Comma Seperated Variable) file](TODO http link to wikipedia about CSV) which is a really common way of storing data and can be opened using a spreadsheet application, including Libre Office Sheets (TODO < check this is correct) installed on Raspbian.
 
 Open the file using Libre Office Sheets and have a look at the data:
+
 1. Open Libre Office Sheets by clicking `Menu > Office > LibreOffice Calc`
-1. Click `File > Open`
-1. Select `All Files`
-1. Double click `data.csv`
-1. Click `Ok` on the Text Import window.
+2. Click `File > Open`
+3. Select `All Files`
+4. Double click `data.csv`
+5. Click `Ok` on the Text Import window.
 
 ![Astro Pi data in LibreOffice Calc](../images/datainspreadsheet.jpg)
 
