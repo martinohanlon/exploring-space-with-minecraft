@@ -30,11 +30,11 @@ If you are new to programming Minecraft: Pi Edition, and want to extend SpaceCRA
 
 ## Worksheets
 
-1. [Installing SpaceCRAFT](worksheets/installspacecraft.md)
-2. [Exploring the Astro Pi computer using Minecraft](worksheets/interactiveastropi.md)
-3. [Displaying data from Space in Minecraft](worksheets/displayingrealtimedata.md)
-4. [Capturing data](worksheets/capturingdata.md)
-5. [Playing back data](worksheets/playbackdata.md)
+1. [Installing SpaceCRAFT](software.md)
+2. [Exploring the Astro Pi computer using Minecraft](worksheet.md)
+3. [Displaying data from Space in Minecraft](worksheet2.md)
+4. [Capturing data](worksheet3.md)
+5. [Playing back data](worksheet4.md)
 
 ## Licence
 

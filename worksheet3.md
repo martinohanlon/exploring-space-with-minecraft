@@ -81,9 +81,5 @@ python3 astropidatalogger.py ~/hannahsdata.csv 1800 60
 
 Caution - if you use the name of a file which already exists it will be overwritten without warning and the old data file will be lost.
 
-## Worksheets
-1. *[Installing SpaceCRAFT](installspacecraft.md)*
-2. *[Exploring the Astro Pi computer using Minecraft](interactiveastropi.md)*
-3. *[Displaying data from Space in Minecraft](displayingrealtimedata.md)*
-4. *[Capturing data](capturingdata.md)*
-5. [Playing back data in Minecraft](playbackdata.md)
+## What Next?
+Now move on to [worksheet 4](worksheet4.md) to learn how to incorporate all of this into a wearable device.
