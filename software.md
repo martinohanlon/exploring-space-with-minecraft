@@ -11,7 +11,7 @@ cd ~
 git clone https://github.com/astro-pi/SpaceCRAFT
 ```
 
-![Downloading SpaceCRAFT](../images/downloadspacecraft.png)
+![Downloading SpaceCRAFT](images/downloadspacecraft.png)
 
 ## Install the Python library
 
@@ -25,6 +25,6 @@ sudo python setup.py install
 sudo python3 setup.py install
 ```
 
-![Installing SpaceCRAFT](../images/installspacecraft.jpg)
+![Installing SpaceCRAFT](images/installspacecraft.jpg)
 
 The SpaceCRAFT program and module documentation is [here](https://github.com/astro-pi/SpaceCRAFT/blob/master/README.rst).
