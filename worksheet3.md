@@ -23,7 +23,7 @@ The program will run for 60 seconds.
 
 ## Examine the data
 
-The data from the sensors has been written to a [CSV (Comma Seperated Variable) file](TODO http link to wikipedia about CSV) which is a common way of storing data and can be opened using a spreadsheet application, including Libre Office Sheets (TODO < check this is correct) installed on Raspbian.
+The data from the sensors has been written to a [CSV (Comma Seperated Variable) file](https://en.wikipedia.org/wiki/Comma-separated_values) which is a common way of storing data and can be opened using a spreadsheet application, including Libre Office Sheets (TODO < check this is correct) installed on Raspbian.
 
 Open the file using LibreOffice Calc and have a look at the data:
 
