@@ -23,7 +23,7 @@ cd ~/SpaceCRAFT/spacecraft
 python3 mcinteractiveastropi.py
 ```
 
-The interactive Sense HAT will be created directly above the player position. If you go back to Minecraft and look up, you should see the bottom of the Raspberry Pi. 
+The interactive Sense HAT will be created directly above the player's position. If you go back to Minecraft and look up, you should see the bottom of the Raspberry Pi. 
 
 ## Explore the Sense HAT
 
