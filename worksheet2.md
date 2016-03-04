@@ -2,7 +2,7 @@
 
 SpaceCRAFT displays data from the SenseHAT in Minecraft, converting the data into 3d structures and blocks.
 
-![SpaceCRAFT Display](../images/spacecraft3.png)
+![SpaceCRAFT Display](images/spacecraft3.png)
 
 This can be run at any time and will use data from the SenseHAT live allowing you to see the results instantly in Minecraft.
 
@@ -29,7 +29,7 @@ The SpaceCRAFT display will be created in front of the players position, go back
 
 The 4 pillars running up the centre of the display show data from the Temperature, Humidity, Pressure sensors on the SenseHAT and the CPU temperature of the Sense HAT.
 
-![SpaceCRAFT Display Pillars](../images/spacecraft5.png)
+![SpaceCRAFT Display Pillars](images/spacecraft5.png)
 
 Running up the centre of each pillar is a different type of block representing the different sensors:
 * Lava - Temperature
@@ -43,11 +43,11 @@ Try holding your finger over the temperature sensor or breathing on the humidity
 
 The ISS at the top of the stairs which circle the pillars changes position based on the orientation of the Sense HAT which is calculated by the SenseHAT's accelerometer, gyroscope and magnetometer.
 
-![SpaceCRAFT Display ISS](../images/spacecraft7.png)
+![SpaceCRAFT Display ISS](images/spacecraft7.png)
 
-![SpaceCRAFT Display ISS](../images/spacecraft2.png)
+![SpaceCRAFT Display ISS](images/spacecraft2.png)
 
-![SpaceCRAFT Display ISS](../images/spacecraft8.png)
+![SpaceCRAFT Display ISS](images/spacecraft8.png)
 
 Tilt the Sense HAT and see the effect it has on the ISS.
 
@@ -55,7 +55,7 @@ Tilt the Sense HAT and see the effect it has on the ISS.
 
 The date and time is displayed by a large clock on the left of the display, when run live it will show the current time set on the computer, when playing back data capture from the ISS it will show the date and time the information was captured.
 
-![SpaceCRAFT Display Date and Time](../images/spacecraft10.png)
+![SpaceCRAFT Display Date and Time](images/spacecraft10.png)
 
 The date and time is displayed in the format DD.MM.YY HH:MM:SS (day . month . year  hours : minutes : seconds).
 
@@ -63,9 +63,9 @@ The date and time is displayed in the format DD.MM.YY HH:MM:SS (day . month . ye
 
 The rocket will be launched when the joystick is used.
 
-![SpaceCRAFT Display Date and Time](../images/spacecraft4.png)
+![SpaceCRAFT Display Date and Time](images/spacecraft4.png)
 
-![SpaceCRAFT Display Date and Time](../images/spacecraft11.png)
+![SpaceCRAFT Display Date and Time](images/spacecraft11.png)
 
 ## What Next?
 Now move on to [worksheet 3](worksheet3.md) to learn how to capture data from the Sense HAT.

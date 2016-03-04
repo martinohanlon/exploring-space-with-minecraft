@@ -31,7 +31,7 @@ After the Sense HAT has appeared in Minecraft, fly up (double tap SPACE to fly, 
 
 You can interact with the Astro Pi computing by hitting it (RIGHT clicking) with a sword. Every part of the Sense HAT computer is 'hitable' and when you do a message will be displayed in Minecraft telling you about what you hit.  
 
-![Interative Sense HAT](../images/interactivepi.png)
+![Interative Sense HAT](images/interactivepi.png)
 
 Can you find all of the parts on the Sense HAT?
 
@@ -45,7 +45,7 @@ Scout around and see if you can find all of the sensors - temperature, humidity,
 
 Using the Sense HAT in Minecraft you can make the LED matrix on your Sense HAT light up. When you hit the LED Matrix in Minecraft the colour of the blocks will change and when they do the LED will change to the same colour.
 
-![Sense HAT LED Matrix](../images/astropimcled.png)
+![Sense HAT LED Matrix](images/astropimcled.png)
 
 ### Joystick
 

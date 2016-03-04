@@ -15,7 +15,7 @@ cd ~/SpaceCRAFT/spacecraft
 python3 astropidatalogger.py ~/data.csv 60 1
 ```
 
-![Run data capture](../images/rundatalogger.jpg)
+![Run data capture](images/rundatalogger.jpg)
 
 While the program is running, an animation, created by Hannah Belshaw, will be shown on the Sense HAT LED Matrix, the pattern changing each time data is read from the sensors and written to the file.
 
@@ -33,13 +33,13 @@ Open the file using LibreOffice Calc and have a look at the data:
 4. Double click `data.csv`
 5. Click `Ok` on the Text Import window.
 
-![Sense HAT data in LibreOffice Calc](../images/datainspreadsheet.jpg)
+![Sense HAT data in LibreOffice Calc](images/datainspreadsheet.jpg)
 
 The top row is the name of the field, each row after this is 1 line of data.
 
 Can you use the Spreadsheet to create a line graph of the temperature over time?
 
-![Sense HAT CPU temperature data as a line graph](../images/dataingraph.JPG) 
+![Sense HAT CPU temperature data as a line graph](images/dataingraph.JPG) 
 
 ## Command Line Options
 

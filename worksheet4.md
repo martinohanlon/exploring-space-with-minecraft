@@ -20,7 +20,7 @@ cd ~/SpaceCRAFT/spacecraft
 python3 mcastroplayback.py
 ```
 
-![The playback program](../images/playbackhelp.png)
+![The playback program](images/playbackhelp.png)
 
 ## Commands
 
@@ -40,14 +40,14 @@ data  exit  help  play  speed  stop
 
 ## Playing back the data in a file
 
-Use the [data capture program](capturingdata.md) to create a data file.
+Use the [data capture program](worksheet3.md) to create a data file.
 
 Use the `play` command and the full file path of the data file to start the Minecraft display, e.g.
 
 ```
 play /home/pi/data.csv
 ```
-![Playing back data in Minecraft](../images/playbackrunning.png)
+![Playing back data in Minecraft](images/playbackrunning.png)
 
 ## Stopping playback
 
