@@ -1,6 +1,6 @@
-# Capturing data from the Astro Pi computer
+# Capturing data from the Sense HAT
 
-While the Astro Pi computers are on the ISS, Tim Peake will be running the SpaceCRAFT data capture program which will create a file of data from all of its sensors and these files will eventually make their way back to Earth, allowing you to get a look at what conditions are like on the ISS.
+While the Sense HATs are on the ISS, Tim Peake will be running the SpaceCRAFT data capture program which will create a file of data from all of its sensors and these files will eventually make their way back to Earth, allowing you to get a look at what conditions are like on the ISS.
 
 You can use your Raspberry Pi and Sense HAT in the same way to capture data about your environment whether thats in your home, classroom or anywhere else you can find to set it up.
 
@@ -33,13 +33,13 @@ Open the file using LibreOffice Calc and have a look at the data:
 4. Double click `data.csv`
 5. Click `Ok` on the Text Import window.
 
-![Astro Pi data in LibreOffice Calc](../images/datainspreadsheet.jpg)
+![Sense HAT data in LibreOffice Calc](../images/datainspreadsheet.jpg)
 
 The top row is the name of the field, each row after this is 1 line of data.
 
 Can you use the Spreadsheet to create a line graph of the temperature over time?
 
-![Astro Pi CPU temperature data as a line graph](../images/dataingraph.JPG) 
+![Sense HAT CPU temperature data as a line graph](../images/dataingraph.JPG) 
 
 ## Command Line Options
 
@@ -54,7 +54,7 @@ It will display all of the available options:
 ```
 usage: astropidatalogger.py [-h] [-v] filename timetorun interval
 
-Astro Pi Data Logger
+Sense HAT Data Logger
 
 positional arguments:
 	filename       The output filename

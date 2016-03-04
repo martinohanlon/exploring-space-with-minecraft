@@ -1,6 +1,6 @@
-#Displaying data from the Astro Pi computer in Minecraft
+#Displaying data from the Sense HAT in Minecraft
 
-SpaceCRAFT displays data from the Astro Pi's SenseHAT in Minecraft, converting the data into 3d structures and blocks.
+SpaceCRAFT displays data from the SenseHAT in Minecraft, converting the data into 3d structures and blocks.
 
 ![SpaceCRAFT Display](../images/spacecraft3.png)
 
@@ -27,7 +27,7 @@ The SpaceCRAFT display will be created in front of the players position, go back
 
 ### The 4 pillars
 
-The 4 pillars running up the centre of the display show data from the Temperature, Humidity, Pressure sensors on the SenseHAT and the CPU temperature of the Astr Pi computer.
+The 4 pillars running up the centre of the display show data from the Temperature, Humidity, Pressure sensors on the SenseHAT and the CPU temperature of the Sense HAT.
 
 ![SpaceCRAFT Display Pillars](../images/spacecraft5.png)
 
@@ -41,7 +41,7 @@ Try holding your finger over the temperature sensor or breathing on the humidity
 
 ### The ISS
 
-The ISS at the top of the stairs which circle the pillars changes position based on the orientation of the Astro Pi computer which is calculated by the SenseHAT's accelerometer, gyroscope and magnetometer.
+The ISS at the top of the stairs which circle the pillars changes position based on the orientation of the Sense HAT which is calculated by the SenseHAT's accelerometer, gyroscope and magnetometer.
 
 ![SpaceCRAFT Display ISS](../images/spacecraft7.png)
 
@@ -49,7 +49,7 @@ The ISS at the top of the stairs which circle the pillars changes position based
 
 ![SpaceCRAFT Display ISS](../images/spacecraft8.png)
 
-Tilt the Astro Pi computer and see the effect it has on the ISS.
+Tilt the Sense HAT and see the effect it has on the ISS.
 
 ### The date and time
 

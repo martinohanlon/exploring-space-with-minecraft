@@ -1,5 +1,5 @@
 
-# Playing back data captured by the AstroPi computer
+# Playing back data captured by the Sense HAT
 
 Data captured to a file by SpaceCRAFT running on the ISS or [by your own Raspberry Pi computer](capturingdata.md) can be played back in Minecraft using the SpaceCRAFT playback `mcastroplayback.py` program.
 
