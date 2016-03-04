@@ -68,4 +68,4 @@ The rocket will be launched when the joystick is used.
 ![SpaceCRAFT Display Date and Time](../images/spacecraft11.png)
 
 ## What Next?
-Now move on to [worksheet 3](worksheet3.md) to learn how to incorporate all of this into a wearable device.
+Now move on to [worksheet 3](worksheet3.md) to learn how to capture data from the Sense HAT.

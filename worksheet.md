@@ -52,4 +52,4 @@ Using the Astro Pi in Minecraft you can make the LED matrix on your Sense HAT li
 The joystick is also hittable and will move the Astro Pi computer around the Minecraft world. 
 
 ## What Next?
-Now move on to [worksheet 2](worksheet2.md) to learn how to incorporate all of this into a wearable device.
+Now move on to [worksheet 2](worksheet2.md) to learn how to display data from the Sense HAT in Minecraft.
