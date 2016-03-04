@@ -1,15 +1,14 @@
-
 # Playing back data captured by the Sense HAT
 
-Data captured to a file by SpaceCRAFT running on the ISS or [by your own Raspberry Pi computer](worksheet3.md) can be played back in Minecraft using the SpaceCRAFT playback `mcastroplayback.py` program.
+Data captured to a file by SpaceCRAFT running on the ISS or [by your own Raspberry Pi computer](worksheet3.md) can be played back in Minecraft, using the SpaceCRAFT playback `mcastroplayback.py` program.
 
 ## Run Minecraft
 
 Run Minecraft by clicking `Menu > Games > Minecraft Pi`.
 
-Click `Start Game` and enter a world by either double clicking a world you have already created or selecting `Create new`.
+Click `Start Game` and enter a world by either double-clicking a world you have already created or selecting `Create new`.
 
-Leave Minecraft running and press Escape to go to the Menu and release your mouse pointer.
+Leave Minecraft running, press `Escape` to go to the menu and release your mouse pointer.
 
 ## Run the playback program
 
@@ -24,9 +23,9 @@ python3 mcastroplayback.py
 
 ## Commands
 
-The SpaceCRAFT playback program has a command line interface and you operate it using text based commands just like when using the terminal.
+The SpaceCRAFT playback program has a command line interface; you operate it using text-based commands just like when using the terminal.
 
-At the `SpaceCRAFT $` prompt type `help` to see a list of all the commands.
+Type `help` at the `SpaceCRAFT $` prompt to see a list of all the commands:
 
 ```
 Welcome to SpaceCRAFT data playback.  Type help or ? to list commands.
@@ -40,22 +39,21 @@ data  exit  help  play  speed  stop
 
 ## Playing back the data in a file
 
-Use the [data capture program](worksheet3.md) to create a data file.
-
-Use the `play` command and the full file path of the data file to start the Minecraft display, e.g.
+Use the [data capture program](worksheet3.md) to create a data file, then use the `play` command and the full file path of the data file to start the Minecraft display, for example:
 
 ```
 play /home/pi/data.csv
 ```
+
 ![Playing back data in Minecraft](images/playbackrunning.png)
 
 ## Stopping playback
 
-To stop the playback use the `stop` command.
+To stop the playback, use the `stop` command.
 
 ## Exiting the program
 
-To exit the program use the `exit` command.
+To exit the program, use the `exit` command.
 
 ## Other commands
 
