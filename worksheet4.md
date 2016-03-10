@@ -1,6 +1,6 @@
 # Playing back data captured by the Sense HAT
 
-Data captured to a file by SpaceCRAFT running on the ISS or [by your own Raspberry Pi computer](worksheet3.md) can be played back in Minecraft, using the SpaceCRAFT playback `mcastroplayback.py` program.
+Data captured to a [file by SpaceCRAFT running on the ISS](data/SpaceCRAFT_20160209_104426.csv) or [by your own Raspberry Pi computer](worksheet3.md) can be played back in Minecraft, using the SpaceCRAFT playback `mcastroplayback.py` program.
 
 ## Run Minecraft
 
@@ -39,7 +39,7 @@ data  exit  help  play  speed  stop
 
 ## Playing back the data in a file
 
-Use the [data capture program](worksheet3.md) to create a data file, then use the `play` command and the full file path of the data file to start the Minecraft display, for example:
+Download the [SpaceCRAFT data file](data/SpaceCRAFT_20160209_104426.csv) which was created on the ISS, or use the [data capture program](worksheet3.md) to create a data file, then use the `play` command and the full file path of the data file to start the Minecraft display, for example:
 
 ```
 play /home/pi/data.csv
