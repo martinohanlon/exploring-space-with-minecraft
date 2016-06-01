@@ -58,9 +58,11 @@ To exit the program, use the `exit` command.
 ## Other commands
 
 Try the other SpaceCRAFT playback commands to see what they do:
-* `speed`
-* `data`
+
+- `speed`
+- `data`
 
 ## What's Next?
+
 - If you want to explore data logging with the Sense HAT a little more, have a look at the [Sense Hat Data Logger resource](https://www.raspberrypi.org/learning/sense-hat-data-logger/)
-- If you wanr to have more fun with the world of Minecraft, have a look at the [Minecraft Photobooth resource](https://www.raspberrypi.org/learning/minecraft-photobooth/)
+- If you want to have more fun with the world of Minecraft, have a look at the [Minecraft Photobooth resource](https://www.raspberrypi.org/learning/minecraft-photobooth/)
