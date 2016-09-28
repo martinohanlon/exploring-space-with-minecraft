@@ -1,6 +1,6 @@
 # Capturing data from the Sense HAT
 
-While the Sense HATs were on the ISS, Tim Peake ran the SpaceCRAFT data capture program for a week. This created a [file of data](data/SpaceCRAFT_20160209_104426.csv) from all of its sensors, and this file was sent back to Earth, allowing you to see what conditions were like on the ISS.
+While the Sense HATs were on the ISS, Tim Peake ran the SpaceCRAFT data capture program for a week. This created a [file of data](data/SpaceCRAFT_20160209_104426.csv) from all the Sense HAT's sensors, and this was sent back to Earth, allowing you to see what conditions were like on the ISS.
 
 You can use your Raspberry Pi and Sense HAT in the same way to capture data about your environment, whether that's in your home, classroom or anywhere else you can find to set it up.
 
@@ -41,7 +41,7 @@ Can you use the spreadsheet to create a line graph of the temperature over time?
 
 ![Sense HAT CPU temperature data as a line graph](images/dataingraph.JPG) 
 
-You can download the SpaceCRAFT data which was captured on the ISS [here](data/SpaceCRAFT_20160209_104426.csv), try loading this into LibreOffice Calc and recreating your graph.
+You can download the SpaceCRAFT data which was captured on the ISS [here](data/SpaceCRAFT_20160209_104426.csv). Try loading this into LibreOffice Calc and recreating your graph.
 
 ## Command line options
 

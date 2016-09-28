@@ -39,7 +39,7 @@ data  exit  help  play  speed  stop
 
 ## Playing back the data in a file
 
-Download the [SpaceCRAFT data file](data/SpaceCRAFT_20160209_104426.csv) which was created on the ISS, or use the [data capture program](worksheet3.md) to create a data file, then use the `play` command and the full file path of the data file to start the Minecraft display, for example:
+Download the [SpaceCRAFT data file](https://raw.githubusercontent.com/raspberrypilearning/exploring-space-with-minecraft/master/data/SpaceCRAFT_20160209_104426.csv) which was created on the ISS, or use the [data capture program](worksheet3.md) to create a data file, then use the `play` command and the full file path of the data file to start the Minecraft display, for example:
 
 ```
 play /home/pi/data.csv
@@ -58,9 +58,11 @@ To exit the program, use the `exit` command.
 ## Other commands
 
 Try the other SpaceCRAFT playback commands to see what they do:
-* `speed`
-* `data`
+
+- `speed`
+- `data`
 
 ## What's Next?
+
 - If you want to explore data logging with the Sense HAT a little more, have a look at the [Sense Hat Data Logger resource](https://www.raspberrypi.org/learning/sense-hat-data-logger/)
-- If you wanr to have more fun with the world of Minecraft, have a look at the [Minecraft Photobooth resource](https://www.raspberrypi.org/learning/minecraft-photobooth/)
+- If you want to have more fun with the world of Minecraft, have a look at the [Minecraft Photobooth resource](https://www.raspberrypi.org/learning/minecraft-photobooth/)
