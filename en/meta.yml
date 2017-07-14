@@ -1,0 +1,44 @@
+---
+title: Exploring space with Minecraft
+hero_image: images/banner.png
+description: In this resource you will explore SpaceCRAFT, the primary school [winning
+  entry in the Astro Pi competition](https://astro-pi.org/competition/winners/).  SpaceCRAFT
+  was conceived by Hannah Belshaw of Cumnor Girls School and created by [Martin O'Hanlon](http://www.stuffaboutcode.com)
+  for the [Raspberry Pi Foundation](https://www.raspberrypi.org).
+original_url: https://raspberrypi.org/learning/exploring-space-with-minecraft
+theme: blue
+duration: 1
+listed: false
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: ''
+site_areas: ''
+steps:
+- title: Introduction
+- title: What you will need
+- title: Exploring the Sense HAT in Minecraft
+- title: Run Minecraft
+- title: Run the interactive Sense HAT program
+- title: Explore the Sense HAT
+- title: What next?
+- title: Displaying data from the Sense HAT in Minecraft
+- title: Run the real-time SpaceCRAFT display program
+- title: Explore the SpaceCRAFT data
+- title: What next?
+- title: Capturing data from the Sense HAT
+- title: Run the data capture program
+- title: Examine the data
+- title: Command line options
+- title: What next?
+- title: Playing back data captured by the Sense HAT
+- title: Run Minecraft
+- title: Run the playback program
+- title: Commands
+- title: Playing back the data in a file
+- title: Stopping playback
+- title: Exiting the program
+- title: Other commands
+- title: What Next?
+
