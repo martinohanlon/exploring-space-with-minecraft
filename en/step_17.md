@@ -1,4 +1,16 @@
-## Playing back data captured by the Sense HAT
+## Commands
 
-Data captured to a [file by SpaceCRAFT running on the ISS](resources/SpaceCRAFT_20160209_104426.csv) or [by your own Raspberry Pi computer](worksheet3.md) can be played back in Minecraft, using the SpaceCRAFT playback `mcastroplayback.py` program.
+The SpaceCRAFT playback program has a command line interface; you operate it using text-based commands just like when using the terminal.
+
+Type `help` at the `SpaceCRAFT $` prompt to see a list of all the commands:
+
+```
+Welcome to SpaceCRAFT data playback.  Type help or ? to list commands.
+
+SpaceCRAFT $ help
+
+Documented commands (type help <topic>):
+========================================
+data  exit  help  play  speed  stop
+```
 

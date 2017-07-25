@@ -1,11 +1,4 @@
-## Run the playback program
+## Stopping playback
 
-Open a terminal by clicking `Menu > Accessories > Terminal` and enter the following commands to start the data playback program:
-
-```
-cd ~/SpaceCRAFT/spacecraft
-python3 mcastroplayback.py
-```
-
-![The playback program](images/playbackhelp.png)
+To stop the playback, use the `stop` command.
 
