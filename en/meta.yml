@@ -1,35 +1,35 @@
 ---
 title: Exploring space with Minecraft
 hero_image: images/banner.png
-description: In this resource you will explore SpaceCRAFT, a winning entry in the
-  Astro Pi competion
+description: In this resource you will explore SpaceCRAFT, a winning entry in the Astro Pi competion
 original_url: https://raspberrypi.org/learning/exploring-space-with-minecraft
-theme: blue
+theme: red
 duration: 2
 listed: false
 ingredient: false
-copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: ''
-technologies: ''
-site_areas: ''
-steps:
+copyedit: true
+curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+interests: space, games
+technologies: raspberry-pi, electronic-components, python, sense-hat
+site_areas: projects
+hardware: raspberry-pi, electronic-components, sense-hat
+software: python
+version: 3
+last_tested: 2017-01-01
+steps: 
 - title: Introduction
 - title: What you will need
 - title: Exploring the Sense HAT in Minecraft
 - title: Run Minecraft
 - title: Run the interactive Sense HAT program
 - title: Explore the Sense HAT
-- title: What next?
 - title: Displaying data from the Sense HAT in Minecraft
 - title: Run the real-time SpaceCRAFT display program
 - title: Explore the SpaceCRAFT data
-- title: What next?
 - title: Capturing data from the Sense HAT
 - title: Run the data capture program
 - title: Examine the data
 - title: Command line options
-- title: What next?
 - title: Playing back data captured by the Sense HAT
 - title: Run Minecraft
 - title: Run the playback program
@@ -39,4 +39,3 @@ steps:
 - title: Exiting the program
 - title: Other commands
 - title: What Next?
-

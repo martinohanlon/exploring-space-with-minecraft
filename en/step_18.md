@@ -1,8 +1,10 @@
-## Run Minecraft
+## Playing back the data in a file
 
-Run Minecraft by clicking `Menu > Games > Minecraft Pi`.
+Download the [SpaceCRAFT data file](https://raw.githubusercontent.com/raspberrypilearning/exploring-space-with-minecraft/master/data/SpaceCRAFT_20160209_104426.csv) which was created on the ISS, or use the [data capture program](capturing-data-from-the-sense-hat) to create a data file, then use the `play` command and the full file path of the data file to start the Minecraft display, for example:
 
-Click `Start Game` and enter a world by either double-clicking a world you have already created or selecting `Create new`.
+```
+play /home/pi/data.csv
+```
 
-Leave Minecraft running, press `Escape` to go to the menu and release your mouse pointer.
+![Playing back data in Minecraft](images/playbackrunning.png)
 

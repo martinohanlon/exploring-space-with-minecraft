@@ -1,8 +1,17 @@
-## Displaying data from the Sense HAT in Minecraft
+## Run the real-time SpaceCRAFT display program
 
-SpaceCRAFT displays data from the SenseHAT in Minecraft, converting the data into 3D structures and blocks.
+Run Minecraft by clicking `Menu > Games > Minecraft Pi`.
 
-![SpaceCRAFT Display](images/spacecraft3.png)
+Click `Start Game` and enter a world by either double-clicking a world you have already created or selecting `Create new`.
 
-This can be run at any time and will use live data from the SenseHAT, allowing you to see the results instantly in Minecraft.
+Leave Minecraft running, press `Escape` to go to the menu and release your mouse pointer.
+
+Open a terminal by clicking the icon on the taskbar, or by clicking `Menu > Accessories > Terminal`, and enter the following commands one by one, pressing `Enter` after each command:
+
+```
+cd ~/SpaceCRAFT/spacecraft
+python3 mcastrorealtime.py
+```
+
+The SpaceCRAFT display will be created in front of the player's position. If you go back to Minecraft and look up, you will see the ISS.
 

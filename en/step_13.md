@@ -1,17 +1,40 @@
-## Run the data capture program
+## Command line options
 
-The SpaceCRAFT data capture program needs to be run from the command line and passed a number of parameters telling it how long to run for, how often to read data, and where to create the data file.
-
-Open a terminal by clicking `Menu > Accessories > Terminal` and enter the following commands to run a short test, which will capture data to a file called `data.csv` for 60 seconds, every 1 second:
+The data capture program requires you to pass a number of parameters which tell it how to run and where to save the data. If you run the program using the optional `-h` parameter: 
 
 ```
-cd ~/SpaceCRAFT/spacecraft
-python3 astropidatalogger.py ~/data.csv 60 1
+python3 astropidatalogger.py -h
 ```
 
-![Run data capture](images/rundatalogger.jpg)
+It will display all of the available options:
 
-While the program is running, an animation created by Hannah Belshaw will be shown on the Sense HAT LED matrix; the pattern changes each time data is read from the sensors and written to the file.
+```
+usage: astropidatalogger.py [-h] [-v] filename timetorun interval
 
-The program will run for 60 seconds.
+Sense HAT Data Logger
+
+positional arguments:
+	filename       The output filename
+	timetorun      The time in seconds the logger should run for
+	interval       The time in seconds between each write
+
+optional arguments:
+	-h, --help     show this help message and exit
+	-v, --verbose  Output verbose debug statements
+
+```
+
+When you ran the data capture program, you passed three parameters:
+
+- filename( - `~/data.csv`
+2. timetorun - `60`
+3. interval - `1`
+
+These parameters have to be passed to the program, but can be changed to suit your needs, such as making it write to a different file, run longer or read data less often. For example, to run the program writing to a file called `hannahsdata.csv` for 30 minutes (1,800 seconds), reading data once a minute (60 seconds), you would use this command:
+
+```
+python3 astropidatalogger.py ~/hannahsdata.csv 1800 60
+```
+
+**Caution** - if you use the name of a file which already exists, it will be overwritten without warning and the old data file will be lost.
 
