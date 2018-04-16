@@ -4,6 +4,8 @@ SpaceCRAFT includes a program which creates an interactive Sense HAT and Raspber
 
 ![Minecraft Interactive Astro Pi](images/astropimc.png)
 
+[Video of the Minecraft Interactive Astro Pi](https://youtu.be/2OJeBvv7m-I).
+
 ### Start Minecraft
 
 --- task ---

@@ -14,7 +14,7 @@ Start Minecraft, enter a world and press **Escape** to go to the menu.
 
 --- task ---
 
-Open a terminal by clicking the icon on the taskbar, or by clicking `Menu > Accessories > Terminal`, and enter the following commands one by one, pressing `Enter` after each command:
+Open a terminal by clicking **Menu**, **Accessories**, **Terminal**, and enter the following commands one by one, pressing `Enter` after each command:
 
 ```
 cd ~/SpaceCRAFT/spacecraft
@@ -38,9 +38,9 @@ Along the centre of each pillar is a different type of block representing the di
 * Obsidian - pressure
 * Red wool - CPU temperature 
 
------ task ---
+--- task ---
 
-Holding your finger over the temperature sensor or breath on the humidity sensor, and seeing what effect it has on the level of lava or water in the pillars.
+Holding your finger over the temperature sensor or breath on the humidity sensor, and see what effect it has on the level of lava or water in the pillars.
 
 --- /task ---
 
@@ -50,15 +50,14 @@ The ISS at the top of the stairs which circle the pillars changes position based
 
 ![SpaceCRAFT Display ISS](images/spacecraft7.png)
 
-![SpaceCRAFT Display ISS](images/spacecraft2.png)
-
-![SpaceCRAFT Display ISS](images/spacecraft8.png)
-
 --- task ---
 
 Tilt the Sense HAT and see the effect it has on the ISS.
 
+![SpaceCRAFT Display ISS](images/spacecraft8.png)
+
 --- /task ---
+
 
 ### The date and time
 
@@ -72,12 +71,10 @@ The date and time is displayed in the format DD.MM.YY HH:MM:SS (day . month . ye
 
 The rocket will be launched when the joystick is used.
 
-![SpaceCRAFT Rocket](images/spacecraft4.png)
-
 --- task ---
 
 Click the joystick on the Sense HAT to see the rocket launch.
 
-![SpaceCRAFT Rocket Launch](images/spacecraft11.png)
-
 --- /task ---
+
+![SpaceCRAFT Rocket](images/spacecraft4.png)

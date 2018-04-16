@@ -1,9 +1,10 @@
 ## What you will make
 In this resource you will explore SpaceCRAFT, the primary school [winning entry in the Astro Pi competition](https://astro-pi.org/principia/winners/#spacecraft).
 
+![iss in minecraft](images/spacecraft2.png)
+
 SpaceCRAFT was conceived by Hannah Belshaw of Cumnor Girls School and created by [Martin O'Hanlon](http://www.stuffaboutcode.com) for the [Raspberry Pi Foundation](https://www.raspberrypi.org). 
 
-![iss in minecraft](images/spacecraft2.png)
 
 ## What you will learn
 By exploring space with Minecraft you will learn:

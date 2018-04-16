@@ -7,8 +7,6 @@
 
 ### Software
 
-#### Software installation
-
 The SpaceCRAFT programs and Python module need to be downloaded and installed before they can be used.
 
 --- task ---

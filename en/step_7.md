@@ -19,7 +19,7 @@ python3 mcastroplayback.py
 
 --- /task ---
 
-The SpaceCRAFT playback program will start and wait for you to enter a text-based command just like when using the terminal.
+The SpaceCRAFT playback program has a text-based user interface and when after it starts it will wait for you to enter a command just like when using the terminal.
 
 --- task ---
 

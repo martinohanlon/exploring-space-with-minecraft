@@ -59,9 +59,9 @@ optional arguments:
 
 When you ran the data capture program, you passed three parameters:
 
-- filename( - `~/data.csv`
-2. timetorun - `60`
-3. interval - `1`
+1. filename - `~/data.csv`
+1. timetorun - `60`
+1. interval - `1`
 
 These parameters have to be passed to the program, but can be changed to suit your needs, such as making it write to a different file, run longer or read data less often. For example, to run the program writing to a file called `hannahsdata.csv` for 30 minutes (1,800 seconds), reading data once a minute (60 seconds), you would use this command:
 
@@ -75,7 +75,7 @@ python3 astropidatalogger.py ~/hannahsdata.csv 1800 60
 
 ## Examine the data
 
-The data from the sensors is written to a [CSV (Comma Seperated Values) file](https://en.wikipedia.org/wiki/Comma-separated_values), which is a common way of storing data. 
+The data from the Sense HAT is written to a [CSV (Comma Seperated Values) file](https://en.wikipedia.org/wiki/Comma-separated_values), which is a common way of storing data. 
 
 This can be opened using a spreadsheet application, including Libre Office Calc which comes preinstalled on Raspbian.
 
@@ -101,8 +101,8 @@ The top row is the name of the field, and each row after this is one line of dat
 
 You can download the SpaceCRAFT data which was captured on the ISS [here](resources/SpaceCRAFT_20160209_104426.csv). 
 
-![Sense HAT CPU temperature data as a line graph](images/dataingraph.JPG) 
-
 Load this data into LibreOffice Calc and use **Insert**, **Chart** to start the Chart Wizard.
+
+![Sense HAT CPU temperature data as a line graph](images/dataingraph.JPG) 
 
 --- /challenge ---
