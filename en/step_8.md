@@ -1,17 +1,29 @@
-## Run the real-time SpaceCRAFT display program
+--- challenge ---
 
-Run Minecraft by clicking `Menu > Games > Minecraft Pi`.
+## Challenge: Explore the SpaceCRAFT commands
 
-Click `Start Game` and enter a world by either double-clicking a world you have already created or selecting `Create new`.
+The SpaceCRAFT playback program has 2 other commands.
 
-Leave Minecraft running, press `Escape` to go to the menu and release your mouse pointer.
+- `speed`
+- `data`
 
-Open a terminal by clicking the icon on the taskbar, or by clicking `Menu > Accessories > Terminal`, and enter the following commands one by one, pressing `Enter` after each command:
+Can you work out what they do?
 
-```
-cd ~/SpaceCRAFT/spacecraft
-python3 mcastrorealtime.py
-```
+--- hints ---
 
-The SpaceCRAFT display will be created in front of the player's position. If you go back to Minecraft and look up, you will see the ISS.
+--- hint ---
+
+Entering `help speed` will give you a description of the `speed` command.
+
+--- /hint ---
+
+--- hint ---
+
+The `speed` command requires an additional parameter to be passed e.g. `speed 2`.
+
+--- /hint ---
+
+--- /hints ---
+
+--- /challenge ---
 
