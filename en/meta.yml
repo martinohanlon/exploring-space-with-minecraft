@@ -7,7 +7,7 @@ theme: red
 duration: 2
 listed: false
 ingredient: false
-copyedit: true
+copyedit: false
 curriculum: 2, design-0, programming-2, phys-comp-1, manufacture-0, community-0
 interests: space, games
 technologies: raspberry-pi, electronic-components, python, sense-hat
