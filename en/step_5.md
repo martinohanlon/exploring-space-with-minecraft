@@ -1,20 +1,20 @@
-## SpaceCRAFT - display live data
+## Display live data
 
-SpaceCRAFT displays data from the SenseHAT in Minecraft, converting the data into 3D structures and blocks.
+SpaceCRAFT displays data from the Sense HAT in Minecraft, converting the data into 3D structures and blocks.
 
 ![SpaceCRAFT Display](images/spacecraft3.png)
 
-This can be run at any time and will use live data from the SenseHAT, allowing you to see the results instantly in Minecraft.
+You can run this program at any time, and it will use live data from the Sense HAT, allowing you to see results instantly in Minecraft.
 
 --- task ---
 
-Start Minecraft, enter a world and press **Escape** to go to the menu.
+Start Minecraft, enter a world, and press <kbd>Escape</kbd> to go to the menu.
 
 --- /task ---
 
 --- task ---
 
-Open a terminal by clicking **Menu**, **Accessories**, **Terminal**, and enter the following commands one by one, pressing `Enter` after each command:
+Open a terminal by clicking **Menu** > **Accessories** > **Terminal**, and enter the following commands one by one, pressing <kbd>Enter</kbd> after each command:
 
 ```
 cd ~/SpaceCRAFT/spacecraft
@@ -27,32 +27,32 @@ The SpaceCRAFT display will be created in front of the player's position. If you
 
 ### The four pillars
 
-The four pillars running up the centre of the display show data from the temperature, humidity and pressure sensors on the Sense HAT and its CPU temperature.
+The four pillars running up the centre of the display show data from the temperature, humidity, and pressure sensors on the Sense HAT, and its CPU temperature.
 
 ![SpaceCRAFT Display Pillars](images/spacecraft5.png)
 
 Along the centre of each pillar is a different type of block representing the different sensors:
 
-* Lava - temperature
-* Water - humidity
-* Obsidian - pressure
-* Red wool - CPU temperature 
+* Lava – temperature
+* Water – humidity
+* Obsidian – pressure
+* Red wool – CPU temperature 
 
 --- task ---
 
-Holding your finger over the temperature sensor or breath on the humidity sensor, and see what effect it has on the level of lava or water in the pillars.
+Hold your finger over the temperature sensor or breathe on the humidity sensor, and see what effect it has on the level of lava or water in the pillars.
 
 --- /task ---
 
 ### The ISS
 
-The ISS at the top of the stairs which circle the pillars changes position based on the orientation of the Sense HAT. This is calculated using the Sense HAT's accelerometer, gyroscope, and magnetometer.
+The ISS at the top of the stairs that circle the pillars changes position based on the orientation of the Sense HAT. Its movement is calculated using the Sense HAT's accelerometer, gyroscope, and magnetometer.
 
 ![SpaceCRAFT Display ISS](images/spacecraft7.png)
 
 --- task ---
 
-Tilt the Sense HAT and see the effect it has on the ISS.
+Tilt the Sense HAT and see the effect on the ISS.
 
 ![SpaceCRAFT Display ISS](images/spacecraft8.png)
 
@@ -60,12 +60,11 @@ Tilt the Sense HAT and see the effect it has on the ISS.
 
 
 ### The date and time
-
-The date and time is displayed by a large clock on the left of the display. When run live, it will show the current time set on the computer; when playing back data capture from the ISS, it will show the date and time the information was captured.
+A large clock on the left of the display shows the date and time. When running live, it will show the current time set on your computer; when playing back collected data, it will show when the information was captured.
 
 ![SpaceCRAFT Display Date and Time](images/spacecraft10.png)
 
-The date and time is displayed in the format DD.MM.YY HH:MM:SS (day . month . year  hours : minutes : seconds).
+The date and time are displayed in the format DD.MM.YY HH:MM:SS (day, month, year; hours, minutes, seconds).
 
 ### Rocket
 
@@ -73,7 +72,7 @@ The rocket will be launched when the joystick is used.
 
 --- task ---
 
-Click the joystick on the Sense HAT to see the rocket launch.
+Click the joystick on the Sense HAT to launch the the rocket.
 
 --- /task ---
 
