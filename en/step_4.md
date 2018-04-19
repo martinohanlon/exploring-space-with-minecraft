@@ -1,22 +1,22 @@
 --- challenge ---
 
-## Challenge: Can you find all of the parts on the Sense HAT?
+## Challenge: find all of the parts on the Sense HAT
 
 ### Sensors
 
-If you hit the sensors, a message will appear in Minecraft, telling you what sensor it is and its current value.
+If you hit a Sense HAT sensor, a message will appear in Minecraft telling you which sensor it is, and its current measurement value.
 
-Scout around and see if you can find all of the sensors - temperature, humidity, pressure, accelerometer, magnetometer, and gyroscope.
+Scout around and see if you can find all of the sensors: there are sensors for temperature, humidity, and pressure, and an accelerometer, a magnetometer, and a gyroscope.
 
 ### LED matrix
 
-Using the Sense HAT in Minecraft you can make the LED matrix on your Sense HAT light up. When you hit the LED matrix in Minecraft, the colour of the blocks will change and the LED will change to the same colour.
+Using the interactive Minecraft Astro Pi, you can make the LED matrix on your physical Sense HAT light up. When you hit the LED matrix, the colour of the blocks will change and the LED will change to the same colour.
 
 ![Sense HAT LED Matrix](images/astropimcled.png)
 
 ### Joystick
 
-The joystick can also be hit, and will move the Sense HAT around the Minecraft world. 
+You can also hit the joystick, and this will move the Sense HAT around the Minecraft world. 
 
 --- /challenge ---
 
