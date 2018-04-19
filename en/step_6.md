@@ -1,4 +1,4 @@
-## Capturing data from the Sense HAT
+## Capturing data with the Sense HAT
 
 During the [Principia](https://astro-pi.org/principia/) mission, ESA astronaut [Tim Peake](http://timpeake.esa.int/) ran the SpaceCRAFT data capture program for a week. 
 
