@@ -1,5 +1,5 @@
 ## What you will make
-In this resource you will explore SpaceCRAFT, the primary school [winning entry in the Astro Pi competition](https://astro-pi.org/principia/winners/#spacecraft).
+In this resource you will explore SpaceCRAFT, a [winning entry in the Astro Pi competition](https://astro-pi.org/principia/winners/#spacecraft).
 
 ![iss in minecraft](images/spacecraft2.png)
 
