@@ -1,8 +1,8 @@
 --- challenge ---
 
-## Challenge: Explore the SpaceCRAFT commands
+## Challenge: explore the SpaceCRAFT commands
 
-The SpaceCRAFT playback program has 2 other commands.
+The SpaceCRAFT playback program has two other commands.
 
 - `speed`
 - `data`
@@ -19,11 +19,10 @@ Entering `help speed` will give you a description of the `speed` command.
 
 --- hint ---
 
-The `speed` command requires an additional parameter to be passed e.g. `speed 2`.
+To use the `speed` command, you need to pass it an additional parameter, e.g. `speed 2`.
 
 --- /hint ---
 
 --- /hints ---
 
 --- /challenge ---
-
