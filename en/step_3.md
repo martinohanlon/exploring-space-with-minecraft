@@ -1,36 +1,36 @@
 ## Exploring the Sense HAT in Minecraft
 
-SpaceCRAFT includes a program which creates an interactive Sense HAT and Raspberry Pi computer in Minecraft. This is a great way to explore your Raspberry Pi computer, its Sense HAT and what it can do.
+SpaceCRAFT includes a program that creates an interactive Astro Pi (made of a Sense HAT and a Raspberry Pi computer) in Minecraft. Using is a great way to explore what your Raspberry Pi computer and its Sense HAT can do.
 
 ![Minecraft Interactive Astro Pi](images/astropimc.png)
 
-[Video of the Minecraft Interactive Astro Pi](https://youtu.be/2OJeBvv7m-I).
+[Video of the Minecraft Interactive Astro Pi](https://youtu.be/2OJeBvv7m-I)
 
 ### Start Minecraft
 
 --- task ---
 
-Run Minecraft by clicking **Menu**, **Games**, **Minecraft Pi**.
+Run Minecraft by clicking **Menu** > **Games** > **Minecraft Pi**.
 
 --- /task ---
 
 --- task ---
 
-Click `Start Game` and enter a world by either double-clicking a world you have already created or selecting **Create new**.
+Click **Start Game*** and enter a world by either double-clicking a world you have already created or selecting **Create new**.
 
 --- /task ---
  
 --- task ---
 
-Leave Minecraft running but press **Escape** to go to the menu and release your mouse pointer.
+Leave Minecraft running, but press <kbd>Esc<kbd> to go to the menu and release your mouse pointer.
 
 --- /task ---
 
-### Run the interactive Sense HAT program
+### Run the interactive Astro Pi program
 
 --- task ---
 
-Open a terminal by clicking the icon on the taskbar, or by clicking **Menu**, **Accessories**, **Terminal**, and enter the following commands:
+Open a terminal by clicking the icon in the taskbar, or by clicking **Menu** > **Accessories** > **Terminal**, and enter the following commands:
 
 ```
 cd ~/SpaceCRAFT/spacecraft
@@ -39,21 +39,19 @@ python3 mcinteractiveastropi.py
 
 --- /task ---
 
-The interactive Sense HAT will be created directly above the player's position. If you go back to Minecraft and look up, you should see the bottom of the Raspberry Pi. 
+This will create an interactive Astro Pi directly above the player's position. If you go back to Minecraft and look up, you should see the bottom of the Raspberry Pi. 
 
 --- task ---
 
-Explore the Sense HAT in Minecraft, fly up and have a look around. 
+Explore the Sense HAT in Minecraft: fly up and have a look around. 
 
-Double-tap **Space** to fly, press **Space** to make the player go up, and press **Shift** to make the player come down.
+Double-tap <kbd>Space</kbd> to fly, press <kbd>Space</kbd> to make the player go up, and press <kbd>Shift</kbd> to make the player come down.
 
 --- /task ---
 
 --- task ---
 
-Interact with the Astro Pi by hitting it (right-clicking) with a sword. 
-
-Every part of the Sense HAT computer can be hit and when you do, a message will be displayed in Minecraft telling you about what you hit.  
+Interact with the Sense HAT by hitting it (right-clicking) with a sword. Whenever you hit it, a message will be displayed in Minecraft telling you about the part that you've hit.  
 
 ![Interactive Sense HAT](images/interactivepi.png)
 
