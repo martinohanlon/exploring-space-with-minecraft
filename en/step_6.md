@@ -12,7 +12,7 @@ The SpaceCRAFT data capture program is run from the command line. You need to pa
 
 --- task ---
 
-Open a terminal window by clicking **Menu* > **Accessories** > **Terminal** and enter the following commands to run a short test that will capture data to a file called `data.csv` for 60 seconds, taking a reading every second:
+Open a terminal window by clicking **Menu** > **Accessories** > **Terminal** and enter the following commands to run a short test that will capture data to a file called `data.csv` for 60 seconds, taking a reading every second:
 
 ```
 cd ~/SpaceCRAFT/spacecraft
