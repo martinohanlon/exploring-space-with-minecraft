@@ -1,16 +1,16 @@
-## SpaceCRAFT - playback captured data 
+## Play back captured data 
 
-The data captured captured from the Sense HAT can be displayed in Minecraft, using the SpaceCRAFT playback `mcastroplayback.py` program.
+Data that you capture with the Sense HAT can be displayed in Minecraft using the SpaceCRAFT playback `mcastroplayback.py` program.
 
 --- task ---
 
-Start Minecraft, enter a world and press **Escape** to go to the menu.
+Start Minecraft, enter a world, and press <kbd>Escape</kbd> to go to the menu.
 
 --- /task ---
 
 --- task ---
 
-Open a terminal and enter the following commands to start the data playback program:
+Open a terminal window and enter the following commands to start the data playback program:
 
 ```
 cd ~/SpaceCRAFT/spacecraft
@@ -19,11 +19,11 @@ python3 mcastroplayback.py
 
 --- /task ---
 
-The SpaceCRAFT playback program has a text-based user interface and when after it starts it will wait for you to enter a command just like when using the terminal.
+The SpaceCRAFT playback program has a text-based user interface. After it starts, it will wait for you to enter a command just like a terminal window.
 
 --- task ---
 
-Type `help` at the `SpaceCRAFT $` prompt to see a list of all the commands:
+Type `help` into the `SpaceCRAFT $` prompt to see a list of all the commands:
 
 ```
 Welcome to SpaceCRAFT data playback.  Type help or ? to list commands.
@@ -41,7 +41,7 @@ data  exit  help  play  speed  stop
 
 --- task ---
 
-Use the `play` command to display the data you captured to the `data.csv` file.
+Use the `play` command to display the data you captured in the `data.csv` file.
 
 ```
 play /home/pi/data.csv
@@ -51,9 +51,8 @@ play /home/pi/data.csv
 
 --- /task ---
 
-The SpaceCRAFT display will appear in Minecraft and playback the data.
+The SpaceCRAFT display will appear in Minecraft and play back the data.
 
 You can stop the playback at anytime by entering the `stop` command.
 
-To exit the program use the command `exit`.
-
+To exit the program, use the command `exit`.
