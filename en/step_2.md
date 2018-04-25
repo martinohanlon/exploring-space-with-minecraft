@@ -2,17 +2,16 @@
 
 ### Hardware
 
-* Sense Hat
+* Rasperry Pi
+* Sense HAT
 
 ### Software
 
-#### Software installation
+You need to download and install the SpaceCRAFT program and Python module so you can use them.
 
-The SpaceCRAFT programs and Python module need to be downloaded and installed before they can be used.
+--- task ---
 
-#### Download
-
-Open a terminal by clicking the icon on the taskbar, or by clicking 'Menu > Accessories > Terminal', and enter the following commands one by one, pressing `Enter` after each:
+Open a terminal window by clicking **Menu** > **Accessories** > **Terminal**, and enter the following commands one by one, pressing <kbd>Enter</kbd> after each:
 
 ```bash
 cd ~
@@ -21,18 +20,6 @@ git clone https://github.com/astro-pi/SpaceCRAFT
 
 ![Downloading SpaceCRAFT](images/downloadspacecraft.png)
 
-#### Install the Python library
-
-As well as the SpaceCRAFT programs, a Python library is also included to allow you to create your own SpaceCRAFT programs.
-
-Open a terminal and enter the following commands:
-
-```bash
-cd ~/SpaceCRAFT
-sudo python setup.py install
-sudo python3 setup.py install
-```
-
-![Installing SpaceCRAFT](images/installspacecraft.jpg)
+--- /task ---
 
 The SpaceCRAFT program and module documentation is [here](https://github.com/astro-pi/SpaceCRAFT/blob/master/README.rst).
