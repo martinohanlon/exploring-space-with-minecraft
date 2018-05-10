@@ -72,8 +72,8 @@ The rocket will be launched when the joystick is used.
 
 --- task ---
 
-Click the joystick on the Sense HAT to launch the the rocket.
-
+Click the joystick on the Sense HAT in the middle to launch the rocket.
+ 
 --- /task ---
 
 ![SpaceCRAFT Rocket](images/spacecraft4.png)

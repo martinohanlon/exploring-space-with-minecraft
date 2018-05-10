@@ -14,7 +14,7 @@ technologies: raspberry-pi, electronic-components, python, sense-hat
 site_areas: projects
 hardware: raspberry-pi, electronic-components, sense-hat
 software: python
-version: 4
+version: 4.0.1
 last_tested: 2018-04-25
 steps: 
 - title: Introduction
