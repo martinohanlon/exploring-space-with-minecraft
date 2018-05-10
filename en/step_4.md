@@ -16,7 +16,7 @@ Using the interactive Minecraft Astro Pi, you can make the LED matrix on your ph
 
 ### Joystick
 
-You can also hit the joystick, and this will move the Sense HAT around the Minecraft world. 
+You can also hit the joystick in Minecraft, and this will move the Sense HAT around the Minecraft world. 
 
 --- /challenge ---
 
