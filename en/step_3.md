@@ -51,7 +51,7 @@ Double-tap <kbd>Space</kbd> to fly, press <kbd>Space</kbd> to make the player go
 
 --- task ---
 
-Interact with the Sense HAT by hitting it (right-clicking) with a sword. Whenever you hit it, a message will be displayed in Minecraft telling you about the part that you've hit.  
+Interact with the Sense HAT by hitting it (right-clicking) with a sword. When you hit it, a message will either be displayed in Minecraft telling you about the part that you've hit or it will make the Sense HAT light up.  
 
 ![Interactive Sense HAT](images/interactivepi.png)
 
