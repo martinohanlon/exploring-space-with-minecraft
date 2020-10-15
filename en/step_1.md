@@ -1,5 +1,5 @@
 ## What you will make
-In this resource you will explore SpaceCRAFT, a [winning entry in the Astro Pi competition](https://astro-pi.org/principia/winners/#spacecraft).
+In this resource you will explore SpaceCRAFT, a [winning entry in the Astro Pi competition](https://web.archive.org/web/20200708025243if_/https://astro-pi.org/principia/winners/#spacecraft){:target="_blank"}.
 
 ![iss in minecraft](images/spacecraft2.png)
 
